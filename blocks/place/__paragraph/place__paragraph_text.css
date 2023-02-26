@@ -1,4 +1,4 @@
-.place__paragraph_li {
+.place__paragraph_text {
   font-weight: 400;
   font-size: 18px;
   line-height: 163%;
@@ -6,22 +6,22 @@
   padding-bottom: 27px;
 }
 
-.place__paragraph_li:last-child {
+.place__paragraph_text:last-child {
   padding-bottom: 0;
 }
 
 @media screen and (max-width: 1023px) {
-  .place__paragraph_li {
+  .place__paragraph_text {
     font-size: 16px;
     padding-bottom: 25px;
   }
-  .place__paragraph_li:last-child {
+  .place__paragraph_text:last-child {
     padding-bottom: 0;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .place__paragraph_li {
+  .place__paragraph_text {
     padding: 0;
   }
 }
