@@ -5,11 +5,14 @@
   align-items: center;
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 767px) {
   .footer__links {
     grid-template-columns: repeat(1, auto);
     grid-template-rows: repeat(5, auto);
+    row-gap: 32px;
+    padding-bottom: 48px;
   }
 }
