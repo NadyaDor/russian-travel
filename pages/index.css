@@ -1,5 +1,5 @@
 @import url(../vendor/normalize.css);
-@import url(../fonts/inter.css);
+@import url(../fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
 
@@ -20,6 +20,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__texts/intro__texts.css);
+@import url(../blocks/intro/__span/);
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);

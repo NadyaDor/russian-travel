@@ -6,6 +6,7 @@
   align-items: center;
   /*выровняла по центру*/
   padding-bottom: 56px;
+  margin: auto;
 }
 
 @media screen and (max-width: 1279px) {
