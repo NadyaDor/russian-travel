@@ -12,15 +12,16 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .intro {
-    padding: 0 24px 88px;
-    max-width: 720px;
+    width: calc(100% - 24px*2);
+    padding-bottom: 88px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro {
-    padding: 0 16px 64px;
+    width: calc(100% - 16px*2);
+    padding-bottom: 64px;
   }
 }
