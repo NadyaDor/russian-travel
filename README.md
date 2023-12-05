@@ -13,7 +13,7 @@
 </p>
 
 `Стек:`
-&nbsp;
+
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://img.shields.io/badge/HTML-%23000000?logo=html5&logoColor=%23FFFFFF%20&color=%23E34F26" alt="HTML5" height="30px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://img.shields.io/badge/CSS-%23000000?logo=css3&logoColor=%23FFFFFF%20&color=%231572B6" alt="CSS3" height="30px"></a>
 <a href="https://ru.bem.info/" title="БЭМ"><img src="https://img.shields.io/badge/БЭМ%20nested-%23FFFFFF%20?logo=bem&logoColor=%23000000%20&color=%2361DAFB" alt="БЭМ" height="30px"></a>
@@ -27,4 +27,4 @@
 </p>
 
 **Краткое резюме**:
-В этом проекте сложной для меня показалась реализация затемнения при наведении на блок cover, пока не поняла логику исполнения. Все с чего-то начинали. При наличии свободного времени, планирую добавить версию на английском языке, кнопка уже есть - -начало положено.
+В этом проекте сложной для меня показалась реализация затемнения при наведении на блок cover, пока не поняла логику исполнения. Все с чего-то начинали. При наличии свободного времени, планирую добавить версию на английском языке, кнопка уже есть - начало положено.
